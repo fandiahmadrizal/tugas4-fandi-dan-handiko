@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="resto">
+</Property><Property Name="Solution File" Value="E:\PRA-PKL\magang\resto\resto.sln">
+</Property><Property Name="User Options File" Value="E:\PRA-PKL\magang\resto\resto.suo">
+</Property><Property Name="Date" Value="09 Juli 2014">
+</Property><Property Name="Time" Value="15:57">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="resto.sln" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\resto.sln">
+</Event><Event ErrorLevel="0" Project="" Source="resto.suo" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\resto.suo">
+</Event><Event ErrorLevel="0" Project="resto" Source="resto.vbproj" Description="Project file successfully backed up as E:\PRA-PKL\magang\resto\Backup\resto.vbproj">
+</Event><Event ErrorLevel="0" Project="resto" Source="Form1.vb" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="resto" Source="Form1.Designer.vb" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="resto" Source="Form2.Designer.vb" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Form2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="resto" Source="Form2.vb" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Form2.vb">
+</Event><Event ErrorLevel="0" Project="resto" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="resto" Source="My Project\Application.Designer.vb" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="resto" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="resto" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="resto" Source="My Project\Application.myapp" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="resto" Source="My Project\Settings.settings" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\1.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\1.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\2.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\2.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\3.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\3.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\4.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\4.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\5.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\5.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\6.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\6.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\7.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\7.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\8.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\8.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\9.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\9.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\10.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\10.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\11.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\11.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\12.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\12.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\13.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\13.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\14.JPG" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\14.JPG">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\15.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\15.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\16.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\16.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\21.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\21.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\31.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\31.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\41.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\41.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\51.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\51.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\61.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\61.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\71.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\71.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\81.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\81.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\91.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\91.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\101.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\101.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\111.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\111.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\121.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\121.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\131.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\131.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\141.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\141.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Resources\151.jpg" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Resources\151.jpg">
+</Event><Event ErrorLevel="0" Project="resto" Source="Form1.resx" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="resto" Source="Form2.resx" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="resto" Source="My Project\Resources.resx" Description="File successfully backed up as E:\PRA-PKL\magang\resto\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="resto" Source="resto.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="resto" Source="resto.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="resto.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="resto.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="resto" Source="resto.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
